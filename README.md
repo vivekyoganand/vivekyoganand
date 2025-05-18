@@ -6,7 +6,7 @@ A passionate Cloud Native & OpenShift Expert from India with PhD in AI/ML
 ![Profile Views](https://komarev.com/ghpvc/?username=vivekyoganand)
 
 ### About Me
-* 🔭 Technical Support Engineer at Red Hat
+* 🔭 Ex - Technical Support Engineer at Red Hat
 * 🌟 OpenShift/Kubernetes SME specializing in troubleshooting and customer support
 * 🎓 PhD in Artificial Intelligence & Neural Networks
 * 💡 Expert in OpenShift Container Platform, Kubernetes, Docker, and Podman
